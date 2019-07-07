@@ -1,1 +1,5 @@
-helo 
+<?php
+echo "Hello world"; 
+
+?>
+
